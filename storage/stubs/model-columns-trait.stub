@@ -1,0 +1,10 @@
+<?php
+namespace {{model_namespace}}
+
+trait {{model_name}}Columns {
+
+
+{{columns}}
+
+
+}
